@@ -8,3 +8,6 @@ https://source.android.com/docs/core/power/component
 
 
 https://developer.android.com/jetpack/androidx/releases/core
+
+
+https://www.javatpoint.com/android-life-cycle-of-activity
