@@ -3,3 +3,5 @@ Develop a software tool that profiles power consumption of different components 
 
 #Documentation
 https://source.android.com/docs/compatibility/13/android-13-cdd
+
+https://source.android.com/docs/core/power/component
